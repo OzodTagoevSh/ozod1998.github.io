@@ -1,0 +1,41 @@
+body{
+	background-color: #39EA42;
+}
+.mov_con h1 {
+	font-family: verdana;
+    text-align: center;
+    background-color: #EED256;
+	color: #FF0000;
+}
+.mov_con h3, .mov_con h4{
+	font-family: Georgia;
+    font-size: 30px;
+	text-align: center;
+}
+
+.mov_con  h2 {
+	font-family: courier;
+    background-color: #AAD68D;
+	text-align: center;
+	color: #121018;
+}
+
+.mov_con p {
+	font-family: verdana;
+    color: #590086;
+	font-size: 11pt;
+}
+.con {
+	width: 100%;
+}
+
+.img-con {
+    float: left;
+    width: 16%;
+}
+
+.txt-con {
+	float: left;
+	width: 84%;
+}
+
