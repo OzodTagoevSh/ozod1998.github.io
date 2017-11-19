@@ -7,24 +7,47 @@ body{
     background-color: #EED256;
 	color: #FF0000;
 }
-.mov_con h3, .mov_con h4{
-	font-family: Georgia;
-    font-size: 30px;
-	text-align: center;
+.mov h1 {
+    text-align: center;
+    color: blue;
+    
 }
-
 .mov_con  h2 {
 	font-family: courier;
     background-color: #AAD68D;
 	text-align: center;
 	color: #121018;
 }
+.mov_con h3, .mov_con h4{
+	font-family: Georgia;
+    font-size: 30px;
+	text-align: center;
+}
+
+
 
 .mov_con p {
 	font-family: verdana;
     color: #590086;
 	font-size: 11pt;
 }
+.par-con p {
+   color: red;
+   font-family: georgia;
+   font-size: 20pt;
+
+}
+.p-con p {
+   font-size: 25pt;
+   font-family: verdana;
+   color: blue;
+}
+.ul-con ul {
+   font-size: 20pt;
+   font-family: georgia;
+   color: red;
+}
+
 .con {
 	width: 100%;
 }
