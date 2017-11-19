@@ -14,7 +14,7 @@ body{
 }
 .mov_con  h2 {
 	font-family: courier;
-    background-color: #AAD68D;
+  background-color: #AAD68D;
 	text-align: center;
 	color: #121018;
 }
@@ -24,8 +24,17 @@ body{
 	text-align: center;
 }
 
+.h1-con h1 {
+  text-align: center;
 
+}
+.git-con p {
+ font-size: 20pt;
+ font-family: georgia;
+ text-align: center;
+ background-color: yellow;
 
+}
 .mov_con p {
 	font-family: verdana;
     color: #590086;
